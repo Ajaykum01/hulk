@@ -39,7 +39,7 @@ async def save_group(bot, message):
             return
         buttons = [[
                     InlineKeyboardButton('Help ⚡', url=f"https://t.me/{temp.U_NAME}?start=help"),
-                    InlineKeyboardButton('My Channel 👀', url='https://t.me/moviesss4ers')
+                    InlineKeyboardButton('My Channel 👀', url='https://t.me/+jARGKkERm1RlNDU1')
                  ],[
                     InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/Nexus_Shubhu")
                   ]]
@@ -62,7 +62,7 @@ async def save_group(bot, message):
                                                  reply_markup=InlineKeyboardMarkup(
                                                                          [[
                                                                            InlineKeyboardButton('Help ⚡', url=f"https://t.me/{temp.U_NAME}?start=help"),
-                                                                           InlineKeyboardButton('My Channel 👀', url='https://t.me/moviesss4ers')
+                                                                           InlineKeyboardButton('My Channel 👀', url='https://t.me/+jARGKkERm1RlNDU1')
                                                                         ],[
                                                                            InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/Nexus_Shubhu")
                                                                          ]]
