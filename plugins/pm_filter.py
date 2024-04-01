@@ -920,7 +920,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('Help ⚡', callback_data='help'),
                     InlineKeyboardButton('About Me 🙈', callback_data='about')
                 ],[
-                    InlineKeyboardButton('Any Queries DM Here ✅',url='https://t.me/Link_Reporter_Bot')
+                    InlineKeyboardButton('Any Queries DM Here ✅',url='https://t.me/Shinchan_2807')
                   ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
