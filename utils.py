@@ -522,7 +522,7 @@ async def get_verify_shorted_link(link):
         https = "https"
         link = link.replace("http", https)
 
-    if URL == "api.shareus.in":
+    if URL == "https://modijiurl.com/api":
         url = f"https://{URL}/shortLink"
         params = {"token": API,
                   "format": "json",
