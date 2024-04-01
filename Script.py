@@ -8,11 +8,11 @@ Cᴏɴᴛᴀᴄᴛ- @Shinchan_2807
 
 Cʜᴇᴄᴋ Tʜᴇꜱᴇ Hᴇʟᴘ Cᴏᴍᴍᴀɴᴅs 👇.</b>"""
 
-    ABOUT_TXT = """<b><i>👨‍💻 ᴏᴡɴᴇʀ : <a href=https://t.me/Shinchan_2807><b>𝗦𝗛𝗨𝗕𝗛𝗔𝗠</b></a>\n
+    ABOUT_TXT = """<b><i>👨‍💻 ᴏᴡɴᴇʀ : <a href=https://t.me/Shinchan_2807><b>Shinchan</b></a>\n
 📝 ʟᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org><b>ᴘʏᴛʜᴏɴ</b></a>\n
 📚 ʟɪʙʀᴀʀʏ : <a href=https://github.com/pyrogram/pyrogram><b>ᴘʏʀᴏɢʀᴀᴍ</b></a>\n
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href=vultr.com><b>ᴠᴘꜱ</b></a>\n
-© ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href=https://t.me/+jARGKkERm1RlNDU1><b>ᴍᴏᴠɪᴇꜱꜱꜱ4ᴇʀꜱ</b></a>\n
+© ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href=https://t.me/+jARGKkERm1RlNDU1><b>LEO</b></a>\n
 """
 
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
@@ -130,9 +130,9 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : ꜱʜᴜʙʜᴀᴍ
-• ᴜꜱᴇʀɴᴀᴍᴇ : ɴᴇxᴜꜱ_ꜱʜᴜʙʜᴜ
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/Nexus_Shubhu'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ : Shinchan
+• ᴜꜱᴇʀɴᴀᴍᴇ : Shinchan
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/Shinchan_2807'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
 Always Request in Correct Spelling... check Spellings on Google ...
