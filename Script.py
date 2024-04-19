@@ -172,7 +172,7 @@ If You Still Don't Get Movies then Owner Will Update Within 12Hour"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>{file_name}</b> \n\n🏆 <i><b>Powered By » [LEO](https://t.me/+jARGKkERm1RlNDU1)</i>"""
+    CAPTION = """<b>{file_name}</b> \n\n🏆 <i><b>How To Use File2link Bot video 👉 https://t.me/kpslinkteam/49 » [Use File2link bot For Fast Download + Online stream](https://t.me/filetolink_leo_bot)</i>"""
 
     IMDB_TEMPLATE_TXT = """
 <b><i>💫 Title : <a href={url}>{title}</a>  ({year}) 🎭 Genres : {genres} 🌟 IMDB Rating: <a href={url}/ratings>{rating}</a> / 10   📌 [How To Download](https://t.me/kpslinkteam/16) </i></b>"""
